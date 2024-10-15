@@ -1,5 +1,3 @@
-Here’s a refined **README** file template for your **LLAMA-LEX APP** project:
-
 ---
 # 🌟 LLAMA-LEX APP 🌟  
 🚀 **Real-Time Document Interaction System Using RAG and LLAMA 3.2**
